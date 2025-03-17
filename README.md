@@ -10,6 +10,7 @@ Plusieurs information ici :
         https://docs.google.com/forms/d/e/1FAIpQLScHPGIg_0EH4I7nmi3q39Ys68XgMm1y1xkuHeDL9II9K0eMEQ/viewform?usp=header
     Mercredi/jeudi : Applications/REX en physique médicale :
         https://docs.google.com/forms/d/e/1FAIpQLSeE-YGUa7ASazz1HP9CB9Gq43RXu1NqycRcS0ymTFBhahJipg/viewform?usp=header
+        
     Vendredi : Bilan global :
         https://docs.google.com/forms/d/e/1FAIpQLSeE-YGUa7ASazz1HP9CB9Gq43RXu1NqycRcS0ymTFBhahJipg/viewform?usp=header
     
